@@ -66,7 +66,7 @@
       <div class="flex flex-col gap-12">
         <div class="flex flex-col md:flex-row gap-8 items-center">
           <div class="flex-1">
-            <img src="../../../../images/L1009660.jpg" alt="Foundation founding"
+            <img src="./images/L1009660.jpg" alt="Foundation founding"
               class="w-full h-64 object-cover rounded-lg" />
           </div>
           <div class="flex-1">
@@ -85,7 +85,7 @@
         </div>
         <div class="flex flex-col md:flex-row-reverse gap-8 items-center">
           <div class="flex-1">
-            <img src="../../../../images/IMG-20190410-WA0001.jpg" alt="Team growth"
+            <img src="./images/IMG-20190410-WA0001.jpg" alt="Team growth"
               class="w-full h-64 object-cover rounded-lg" />
           </div>
           <div class="flex-1">
