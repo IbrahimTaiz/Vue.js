@@ -3,7 +3,7 @@
 <main class="container mx-auto">
 
     <section
-    class="relative bg-[url('@/images/One.jpg')] bg-cover bg-center min-h-[60vh] md:min-h-[80vh] flex items-center justify-center">
+    class="relative bg-cover bg-center min-h-[60vh] md:min-h-[80vh] flex items-center justify-center">
     <div class="absolute inset-0 bg-black/50"></div>
     <div class="relative z-10 max-w-2xl text-center text-white px-6">
       <h1 class="text-3xl md:text-5xl font-bold mb-6 leading-tight">
@@ -66,7 +66,7 @@
       <div class="flex flex-col gap-12">
         <div class="flex flex-col md:flex-row gap-8 items-center">
           <div class="flex-1">
-            <img src="@/images/L1009660.jpg" alt="Foundation founding"
+            <img alt="Foundation founding"
               class="w-full h-64 object-cover rounded-lg" />
           </div>
           <div class="flex-1">
@@ -85,7 +85,7 @@
         </div>
         <div class="flex flex-col md:flex-row-reverse gap-8 items-center">
           <div class="flex-1">
-            <img src="@/images/IMG-20190410-WA0001.jpg" alt="Team growth"
+            <img alt="Team growth"
               class="w-full h-64 object-cover rounded-lg" />
           </div>
           <div class="flex-1">
@@ -101,7 +101,7 @@
         </div>
         <div class="flex flex-col md:flex-row gap-8 items-center">
           <div class="flex-1">
-            <img src="@/images/IMG-20190429-WA0034.jpg" alt="Our priorities"
+            <img alt="Our priorities"
               class="w-full h-64 object-cover rounded-lg" />
           </div>
           <div class="flex-1">
